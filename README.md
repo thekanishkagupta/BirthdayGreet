@@ -6,7 +6,7 @@ App which helps in creating birthday greeting card with customized name
 <img src="https://user-images.githubusercontent.com/59255776/178293543-1663ac32-b6d8-4dc1-aabc-f051c1973995.jpg" >
 
 * Birthday Card Generated
-<img src="https://user-images.githubusercontent.com/59255776/178293525-16f733e3-88d3-4671-845c-7270de1896df.jpg"  >
+<img src="https://user-images.githubusercontent.com/59255776/178294693-42a378a1-b351-4b4b-b646-f6debd617948.jpg"  >
 
 
 ## Implemented Libraries
