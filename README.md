@@ -9,11 +9,6 @@ App which helps in creating birthday greeting card with customized name
 <img src="https://user-images.githubusercontent.com/59255776/178294693-42a378a1-b351-4b4b-b646-f6debd617948.jpg"  >
 
 
-## Implemented Libraries
-
- * Glide library is used, which is an Image Loader Library for Android. It provides animated GIF support and handles image loading/caching.
- * Volley library is used, which is an HTTP library that makes networking for Android apps easier and faster. 
-
 ## Any Queries?🤔
  
  Ask me on 
